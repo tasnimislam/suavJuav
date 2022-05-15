@@ -1,0 +1,2054 @@
+[Errno 2] No such file or directory: '/content/drive/MyDrive/Copy of 11 august/fedrec_moderation'
+/content/drive/MyDrive/Tasnim_BUET/11 august/fedrec_moderation
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd20a4f1510>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/tensorflow_federated/python/core/impl/compiler/tensorflow_computation_transformations.py:60: extract_sub_graph (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.extract_sub_graph`
+WARNING:tensorflow:From /usr/local/lib/python3.7/dist-packages/tensorflow_federated/python/core/impl/compiler/tensorflow_computation_transformations.py:60: extract_sub_graph (from tensorflow.python.framework.graph_util_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.compat.v1.graph_util.extract_sub_graph`
+OrderedDict([('sparse_categorical_accuracy', 0.347592), ('loss', 1.9357202)])
+OrderedDict([('sparse_categorical_accuracy', 0.495743), ('loss', 1.5140582)])
+OrderedDict([('sparse_categorical_accuracy', 0.540443), ('loss', 1.3424045)])
+OrderedDict([('sparse_categorical_accuracy', 0.565774), ('loss', 1.2676281)])
+OrderedDict([('sparse_categorical_accuracy', 0.58144), ('loss', 1.2214282)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.256355), ('loss', 2.0409615)])
+OrderedDict([('sparse_categorical_accuracy', 0.39727), ('loss', 1.6496458)])
+OrderedDict([('sparse_categorical_accuracy', 0.534479), ('loss', 1.4110401)])
+OrderedDict([('sparse_categorical_accuracy', 0.573901), ('loss', 1.27795)])
+OrderedDict([('sparse_categorical_accuracy', 0.590712), ('loss', 1.2157212)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.253407), ('loss', 2.1004035)])
+OrderedDict([('sparse_categorical_accuracy', 0.429117), ('loss', 1.5920161)])
+OrderedDict([('sparse_categorical_accuracy', 0.551118), ('loss', 1.3852568)])
+OrderedDict([('sparse_categorical_accuracy', 0.575176), ('loss', 1.2915703)])
+OrderedDict([('sparse_categorical_accuracy', 0.592792), ('loss', 1.2371842)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.175439), ('loss', 2.117871)])
+OrderedDict([('sparse_categorical_accuracy', 0.313388), ('loss', 1.7982788)])
+OrderedDict([('sparse_categorical_accuracy', 0.446388), ('loss', 1.646637)])
+OrderedDict([('sparse_categorical_accuracy', 0.395668), ('loss', 1.5285354)])
+OrderedDict([('sparse_categorical_accuracy', 0.489748), ('loss', 1.4293216)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.269426), ('loss', 2.045023)])
+OrderedDict([('sparse_categorical_accuracy', 0.427916), ('loss', 1.6213897)])
+OrderedDict([('sparse_categorical_accuracy', 0.509623), ('loss', 1.4094597)])
+OrderedDict([('sparse_categorical_accuracy', 0.527407), ('loss', 1.327033)])
+OrderedDict([('sparse_categorical_accuracy', 0.545995), ('loss', 1.2875036)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.245105), ('loss', 2.0133984)])
+OrderedDict([('sparse_categorical_accuracy', 0.473911), ('loss', 1.5550689)])
+OrderedDict([('sparse_categorical_accuracy', 0.531777), ('loss', 1.3648529)])
+OrderedDict([('sparse_categorical_accuracy', 0.551497), ('loss', 1.2906687)])
+OrderedDict([('sparse_categorical_accuracy', 0.561029), ('loss', 1.2494441)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.29917), ('loss', 1.9035736)])
+OrderedDict([('sparse_categorical_accuracy', 0.49054), ('loss', 1.5104047)])
+OrderedDict([('sparse_categorical_accuracy', 0.531379), ('loss', 1.3594832)])
+OrderedDict([('sparse_categorical_accuracy', 0.565972), ('loss', 1.2762296)])
+OrderedDict([('sparse_categorical_accuracy', 0.578961), ('loss', 1.2265567)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.227), ('loss', 2.123477)])
+OrderedDict([('sparse_categorical_accuracy', 0.404404), ('loss', 1.6075925)])
+OrderedDict([('sparse_categorical_accuracy', 0.529815), ('loss', 1.3730183)])
+OrderedDict([('sparse_categorical_accuracy', 0.581712), ('loss', 1.2841684)])
+OrderedDict([('sparse_categorical_accuracy', 0.599676), ('loss', 1.231385)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.308823), ('loss', 1.9974144)])
+OrderedDict([('sparse_categorical_accuracy', 0.454694), ('loss', 1.5444247)])
+OrderedDict([('sparse_categorical_accuracy', 0.491831), ('loss', 1.3889189)])
+OrderedDict([('sparse_categorical_accuracy', 0.531561), ('loss', 1.2983297)])
+OrderedDict([('sparse_categorical_accuracy', 0.553067), ('loss', 1.2460366)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.297986), ('loss', 1.9796984)])
+OrderedDict([('sparse_categorical_accuracy', 0.478011), ('loss', 1.5535396)])
+OrderedDict([('sparse_categorical_accuracy', 0.525507), ('loss', 1.3978049)])
+OrderedDict([('sparse_categorical_accuracy', 0.579378), ('loss', 1.2924103)])
+OrderedDict([('sparse_categorical_accuracy', 0.595056), ('loss', 1.2405016)])
+##############################
+16QAM at Eb/N0= 1 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.10778809934854507
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d3558b10>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.355934), ('loss', 1.8297174)])
+OrderedDict([('sparse_categorical_accuracy', 0.468608), ('loss', 1.4674554)])
+OrderedDict([('sparse_categorical_accuracy', 0.524579), ('loss', 1.3045448)])
+OrderedDict([('sparse_categorical_accuracy', 0.569332), ('loss', 1.2118859)])
+OrderedDict([('sparse_categorical_accuracy', 0.597493), ('loss', 1.1534773)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.288458), ('loss', 2.01122)])
+OrderedDict([('sparse_categorical_accuracy', 0.44252), ('loss', 1.5405515)])
+OrderedDict([('sparse_categorical_accuracy', 0.577028), ('loss', 1.3364602)])
+OrderedDict([('sparse_categorical_accuracy', 0.610202), ('loss', 1.2428776)])
+OrderedDict([('sparse_categorical_accuracy', 0.622933), ('loss', 1.186901)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.309905), ('loss', 2.0210793)])
+OrderedDict([('sparse_categorical_accuracy', 0.460086), ('loss', 1.6034764)])
+OrderedDict([('sparse_categorical_accuracy', 0.560258), ('loss', 1.3758043)])
+OrderedDict([('sparse_categorical_accuracy', 0.581669), ('loss', 1.2481529)])
+OrderedDict([('sparse_categorical_accuracy', 0.600062), ('loss', 1.1768475)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.319597), ('loss', 2.0294685)])
+OrderedDict([('sparse_categorical_accuracy', 0.508235), ('loss', 1.5246857)])
+OrderedDict([('sparse_categorical_accuracy', 0.566623), ('loss', 1.3311226)])
+OrderedDict([('sparse_categorical_accuracy', 0.592719), ('loss', 1.2192978)])
+OrderedDict([('sparse_categorical_accuracy', 0.609311), ('loss', 1.1594486)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.342728), ('loss', 1.9111747)])
+OrderedDict([('sparse_categorical_accuracy', 0.506682), ('loss', 1.4175451)])
+OrderedDict([('sparse_categorical_accuracy', 0.540289), ('loss', 1.2764972)])
+OrderedDict([('sparse_categorical_accuracy', 0.576102), ('loss', 1.2048894)])
+OrderedDict([('sparse_categorical_accuracy', 0.602281), ('loss', 1.151572)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.252656), ('loss', 1.9469762)])
+OrderedDict([('sparse_categorical_accuracy', 0.499964), ('loss', 1.4973087)])
+OrderedDict([('sparse_categorical_accuracy', 0.59267), ('loss', 1.2941031)])
+OrderedDict([('sparse_categorical_accuracy', 0.608848), ('loss', 1.20612)])
+OrderedDict([('sparse_categorical_accuracy', 0.621803), ('loss', 1.1583527)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.289013), ('loss', 1.929086)])
+OrderedDict([('sparse_categorical_accuracy', 0.480111), ('loss', 1.4622054)])
+OrderedDict([('sparse_categorical_accuracy', 0.538812), ('loss', 1.2850049)])
+OrderedDict([('sparse_categorical_accuracy', 0.569534), ('loss', 1.2236589)])
+OrderedDict([('sparse_categorical_accuracy', 0.590596), ('loss', 1.1842932)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.251292), ('loss', 2.0296159)])
+OrderedDict([('sparse_categorical_accuracy', 0.477434), ('loss', 1.5492611)])
+OrderedDict([('sparse_categorical_accuracy', 0.545142), ('loss', 1.3495996)])
+OrderedDict([('sparse_categorical_accuracy', 0.585271), ('loss', 1.242946)])
+OrderedDict([('sparse_categorical_accuracy', 0.61242), ('loss', 1.1853666)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.354461), ('loss', 1.87453)])
+OrderedDict([('sparse_categorical_accuracy', 0.465892), ('loss', 1.4630609)])
+OrderedDict([('sparse_categorical_accuracy', 0.511942), ('loss', 1.3026371)])
+OrderedDict([('sparse_categorical_accuracy', 0.560424), ('loss', 1.2315392)])
+OrderedDict([('sparse_categorical_accuracy', 0.597593), ('loss', 1.1730441)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.292088), ('loss', 1.9070436)])
+OrderedDict([('sparse_categorical_accuracy', 0.471258), ('loss', 1.4734545)])
+OrderedDict([('sparse_categorical_accuracy', 0.551143), ('loss', 1.3231013)])
+OrderedDict([('sparse_categorical_accuracy', 0.590788), ('loss', 1.2370481)])
+OrderedDict([('sparse_categorical_accuracy', 0.61059), ('loss', 1.1710672)])
+##############################
+16QAM at Eb/N0= 2 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.09837295114994049
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d351ae10>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.360121), ('loss', 2.0995486)])
+OrderedDict([('sparse_categorical_accuracy', 0.458163), ('loss', 1.5454828)])
+OrderedDict([('sparse_categorical_accuracy', 0.5502), ('loss', 1.2728293)])
+OrderedDict([('sparse_categorical_accuracy', 0.617982), ('loss', 1.1277049)])
+OrderedDict([('sparse_categorical_accuracy', 0.648027), ('loss', 1.055508)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.261261), ('loss', 2.0968833)])
+OrderedDict([('sparse_categorical_accuracy', 0.393304), ('loss', 1.6350143)])
+OrderedDict([('sparse_categorical_accuracy', 0.528885), ('loss', 1.3785939)])
+OrderedDict([('sparse_categorical_accuracy', 0.594158), ('loss', 1.2012364)])
+OrderedDict([('sparse_categorical_accuracy', 0.641274), ('loss', 1.1101804)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.3686), ('loss', 1.8566408)])
+OrderedDict([('sparse_categorical_accuracy', 0.496759), ('loss', 1.4505653)])
+OrderedDict([('sparse_categorical_accuracy', 0.567332), ('loss', 1.307286)])
+OrderedDict([('sparse_categorical_accuracy', 0.60155), ('loss', 1.2160861)])
+OrderedDict([('sparse_categorical_accuracy', 0.631415), ('loss', 1.1559488)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.339298), ('loss', 2.07557)])
+OrderedDict([('sparse_categorical_accuracy', 0.494923), ('loss', 1.5131694)])
+OrderedDict([('sparse_categorical_accuracy', 0.571288), ('loss', 1.261255)])
+OrderedDict([('sparse_categorical_accuracy', 0.593026), ('loss', 1.1288562)])
+OrderedDict([('sparse_categorical_accuracy', 0.617235), ('loss', 1.0596982)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.189419), ('loss', 2.1415923)])
+OrderedDict([('sparse_categorical_accuracy', 0.384211), ('loss', 1.6801822)])
+OrderedDict([('sparse_categorical_accuracy', 0.538502), ('loss', 1.4160703)])
+OrderedDict([('sparse_categorical_accuracy', 0.611199), ('loss', 1.2433099)])
+OrderedDict([('sparse_categorical_accuracy', 0.626797), ('loss', 1.1557679)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.329272), ('loss', 1.8891478)])
+OrderedDict([('sparse_categorical_accuracy', 0.49305), ('loss', 1.453281)])
+OrderedDict([('sparse_categorical_accuracy', 0.567871), ('loss', 1.2835377)])
+OrderedDict([('sparse_categorical_accuracy', 0.60905), ('loss', 1.1778327)])
+OrderedDict([('sparse_categorical_accuracy', 0.640719), ('loss', 1.1107509)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.310125), ('loss', 2.0939841)])
+OrderedDict([('sparse_categorical_accuracy', 0.464844), ('loss', 1.5067811)])
+OrderedDict([('sparse_categorical_accuracy', 0.550038), ('loss', 1.271704)])
+OrderedDict([('sparse_categorical_accuracy', 0.60993), ('loss', 1.1861333)])
+OrderedDict([('sparse_categorical_accuracy', 0.62295), ('loss', 1.1348054)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.363195), ('loss', 1.974852)])
+OrderedDict([('sparse_categorical_accuracy', 0.501633), ('loss', 1.4710344)])
+OrderedDict([('sparse_categorical_accuracy', 0.533482), ('loss', 1.2501645)])
+OrderedDict([('sparse_categorical_accuracy', 0.558207), ('loss', 1.173202)])
+OrderedDict([('sparse_categorical_accuracy', 0.586452), ('loss', 1.1220059)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.383862), ('loss', 1.871067)])
+OrderedDict([('sparse_categorical_accuracy', 0.478855), ('loss', 1.4997869)])
+OrderedDict([('sparse_categorical_accuracy', 0.560419), ('loss', 1.3326253)])
+OrderedDict([('sparse_categorical_accuracy', 0.618803), ('loss', 1.2104294)])
+OrderedDict([('sparse_categorical_accuracy', 0.631194), ('loss', 1.1426176)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.307581), ('loss', 1.9940062)])
+OrderedDict([('sparse_categorical_accuracy', 0.461832), ('loss', 1.5386894)])
+OrderedDict([('sparse_categorical_accuracy', 0.569358), ('loss', 1.3216531)])
+OrderedDict([('sparse_categorical_accuracy', 0.61581), ('loss', 1.2054187)])
+OrderedDict([('sparse_categorical_accuracy', 0.645995), ('loss', 1.1359307)])
+##############################
+16QAM at Eb/N0= 3 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.09269854873418809
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d53e0d50>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.249859), ('loss', 2.1009774)])
+OrderedDict([('sparse_categorical_accuracy', 0.461533), ('loss', 1.5695132)])
+OrderedDict([('sparse_categorical_accuracy', 0.593589), ('loss', 1.2951798)])
+OrderedDict([('sparse_categorical_accuracy', 0.612562), ('loss', 1.1507204)])
+OrderedDict([('sparse_categorical_accuracy', 0.626384), ('loss', 1.0721793)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.351167), ('loss', 1.9754238)])
+OrderedDict([('sparse_categorical_accuracy', 0.570101), ('loss', 1.5238388)])
+OrderedDict([('sparse_categorical_accuracy', 0.613136), ('loss', 1.3230613)])
+OrderedDict([('sparse_categorical_accuracy', 0.629193), ('loss', 1.2084429)])
+OrderedDict([('sparse_categorical_accuracy', 0.643301), ('loss', 1.1309248)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.425102), ('loss', 1.9411286)])
+OrderedDict([('sparse_categorical_accuracy', 0.577324), ('loss', 1.4517947)])
+OrderedDict([('sparse_categorical_accuracy', 0.620314), ('loss', 1.206549)])
+OrderedDict([('sparse_categorical_accuracy', 0.64514), ('loss', 1.0938054)])
+OrderedDict([('sparse_categorical_accuracy', 0.689067), ('loss', 1.0247765)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.324572), ('loss', 1.955936)])
+OrderedDict([('sparse_categorical_accuracy', 0.495797), ('loss', 1.4366122)])
+OrderedDict([('sparse_categorical_accuracy', 0.557698), ('loss', 1.2665675)])
+OrderedDict([('sparse_categorical_accuracy', 0.611647), ('loss', 1.172372)])
+OrderedDict([('sparse_categorical_accuracy', 0.657386), ('loss', 1.1139714)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.312086), ('loss', 1.966855)])
+OrderedDict([('sparse_categorical_accuracy', 0.511668), ('loss', 1.4733962)])
+OrderedDict([('sparse_categorical_accuracy', 0.580501), ('loss', 1.2658525)])
+OrderedDict([('sparse_categorical_accuracy', 0.622969), ('loss', 1.150237)])
+OrderedDict([('sparse_categorical_accuracy', 0.650569), ('loss', 1.0700611)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.382806), ('loss', 1.9684716)])
+OrderedDict([('sparse_categorical_accuracy', 0.502823), ('loss', 1.3876513)])
+OrderedDict([('sparse_categorical_accuracy', 0.544108), ('loss', 1.1754528)])
+OrderedDict([('sparse_categorical_accuracy', 0.599877), ('loss', 1.089176)])
+OrderedDict([('sparse_categorical_accuracy', 0.641834), ('loss', 1.0357484)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.3509), ('loss', 1.8935384)])
+OrderedDict([('sparse_categorical_accuracy', 0.476761), ('loss', 1.3878627)])
+OrderedDict([('sparse_categorical_accuracy', 0.568129), ('loss', 1.2096937)])
+OrderedDict([('sparse_categorical_accuracy', 0.605366), ('loss', 1.1257879)])
+OrderedDict([('sparse_categorical_accuracy', 0.661187), ('loss', 1.0547752)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.278193), ('loss', 2.008609)])
+OrderedDict([('sparse_categorical_accuracy', 0.444156), ('loss', 1.508843)])
+OrderedDict([('sparse_categorical_accuracy', 0.617005), ('loss', 1.3045036)])
+OrderedDict([('sparse_categorical_accuracy', 0.650566), ('loss', 1.1875181)])
+OrderedDict([('sparse_categorical_accuracy', 0.664596), ('loss', 1.1057093)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.289556), ('loss', 1.9865612)])
+OrderedDict([('sparse_categorical_accuracy', 0.425592), ('loss', 1.457168)])
+OrderedDict([('sparse_categorical_accuracy', 0.620281), ('loss', 1.2152466)])
+OrderedDict([('sparse_categorical_accuracy', 0.6685), ('loss', 1.0909657)])
+OrderedDict([('sparse_categorical_accuracy', 0.682865), ('loss', 1.0249238)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.392988), ('loss', 1.8519604)])
+OrderedDict([('sparse_categorical_accuracy', 0.579495), ('loss', 1.3616939)])
+OrderedDict([('sparse_categorical_accuracy', 0.61537), ('loss', 1.1530035)])
+OrderedDict([('sparse_categorical_accuracy', 0.6382), ('loss', 1.0573577)])
+OrderedDict([('sparse_categorical_accuracy', 0.661888), ('loss', 0.9978572)])
+##############################
+16QAM at Eb/N0= 4 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.08552307188510894
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d48e9ed0>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.3628), ('loss', 2.0251331)])
+OrderedDict([('sparse_categorical_accuracy', 0.571175), ('loss', 1.4663627)])
+OrderedDict([('sparse_categorical_accuracy', 0.591567), ('loss', 1.167881)])
+OrderedDict([('sparse_categorical_accuracy', 0.635754), ('loss', 1.0498744)])
+OrderedDict([('sparse_categorical_accuracy', 0.667651), ('loss', 0.9873594)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.381607), ('loss', 1.9743184)])
+OrderedDict([('sparse_categorical_accuracy', 0.552797), ('loss', 1.3749573)])
+OrderedDict([('sparse_categorical_accuracy', 0.603115), ('loss', 1.1496323)])
+OrderedDict([('sparse_categorical_accuracy', 0.631505), ('loss', 1.034478)])
+OrderedDict([('sparse_categorical_accuracy', 0.653988), ('loss', 0.9697847)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.363473), ('loss', 1.9442565)])
+OrderedDict([('sparse_categorical_accuracy', 0.554647), ('loss', 1.3985487)])
+OrderedDict([('sparse_categorical_accuracy', 0.612981), ('loss', 1.1359013)])
+OrderedDict([('sparse_categorical_accuracy', 0.649947), ('loss', 1.0229586)])
+OrderedDict([('sparse_categorical_accuracy', 0.672083), ('loss', 0.963606)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.36489), ('loss', 1.89454)])
+OrderedDict([('sparse_categorical_accuracy', 0.556897), ('loss', 1.3961061)])
+OrderedDict([('sparse_categorical_accuracy', 0.661244), ('loss', 1.1311661)])
+OrderedDict([('sparse_categorical_accuracy', 0.676433), ('loss', 1.0173216)])
+OrderedDict([('sparse_categorical_accuracy', 0.693287), ('loss', 0.9552955)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.259619), ('loss', 2.1030028)])
+OrderedDict([('sparse_categorical_accuracy', 0.430562), ('loss', 1.5812707)])
+OrderedDict([('sparse_categorical_accuracy', 0.521513), ('loss', 1.3060595)])
+OrderedDict([('sparse_categorical_accuracy', 0.622261), ('loss', 1.1548741)])
+OrderedDict([('sparse_categorical_accuracy', 0.666281), ('loss', 1.0837463)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.296281), ('loss', 1.9964842)])
+OrderedDict([('sparse_categorical_accuracy', 0.513471), ('loss', 1.4700837)])
+OrderedDict([('sparse_categorical_accuracy', 0.566147), ('loss', 1.21508)])
+OrderedDict([('sparse_categorical_accuracy', 0.61619), ('loss', 1.0960274)])
+OrderedDict([('sparse_categorical_accuracy', 0.658248), ('loss', 1.003383)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.353878), ('loss', 1.8570058)])
+OrderedDict([('sparse_categorical_accuracy', 0.580539), ('loss', 1.417646)])
+OrderedDict([('sparse_categorical_accuracy', 0.625976), ('loss', 1.1846136)])
+OrderedDict([('sparse_categorical_accuracy', 0.675426), ('loss', 1.0647105)])
+OrderedDict([('sparse_categorical_accuracy', 0.687898), ('loss', 0.9951184)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.265845), ('loss', 1.997503)])
+OrderedDict([('sparse_categorical_accuracy', 0.495784), ('loss', 1.542915)])
+OrderedDict([('sparse_categorical_accuracy', 0.625445), ('loss', 1.2819496)])
+OrderedDict([('sparse_categorical_accuracy', 0.658486), ('loss', 1.1415042)])
+OrderedDict([('sparse_categorical_accuracy', 0.672249), ('loss', 1.0572231)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.333695), ('loss', 1.864519)])
+OrderedDict([('sparse_categorical_accuracy', 0.548331), ('loss', 1.380711)])
+OrderedDict([('sparse_categorical_accuracy', 0.602813), ('loss', 1.166599)])
+OrderedDict([('sparse_categorical_accuracy', 0.644492), ('loss', 1.0524664)])
+OrderedDict([('sparse_categorical_accuracy', 0.680068), ('loss', 0.966504)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.325676), ('loss', 2.012761)])
+OrderedDict([('sparse_categorical_accuracy', 0.507065), ('loss', 1.4633851)])
+OrderedDict([('sparse_categorical_accuracy', 0.560799), ('loss', 1.2088901)])
+OrderedDict([('sparse_categorical_accuracy', 0.605423), ('loss', 1.0972673)])
+OrderedDict([('sparse_categorical_accuracy', 0.631961), ('loss', 1.0273328)])
+##############################
+16QAM at Eb/N0= 5 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.08290714919567108
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1f2bd4090>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.350705), ('loss', 1.9778904)])
+OrderedDict([('sparse_categorical_accuracy', 0.484376), ('loss', 1.4085668)])
+OrderedDict([('sparse_categorical_accuracy', 0.595052), ('loss', 1.1623102)])
+OrderedDict([('sparse_categorical_accuracy', 0.634631), ('loss', 1.0548089)])
+OrderedDict([('sparse_categorical_accuracy', 0.659451), ('loss', 0.9898037)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.24938), ('loss', 2.0027244)])
+OrderedDict([('sparse_categorical_accuracy', 0.51001), ('loss', 1.5272197)])
+OrderedDict([('sparse_categorical_accuracy', 0.621882), ('loss', 1.2539533)])
+OrderedDict([('sparse_categorical_accuracy', 0.617181), ('loss', 1.1239299)])
+OrderedDict([('sparse_categorical_accuracy', 0.628963), ('loss', 1.0603555)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.266531), ('loss', 2.1187246)])
+OrderedDict([('sparse_categorical_accuracy', 0.47422), ('loss', 1.5229979)])
+OrderedDict([('sparse_categorical_accuracy', 0.584991), ('loss', 1.2198035)])
+OrderedDict([('sparse_categorical_accuracy', 0.647973), ('loss', 1.0704406)])
+OrderedDict([('sparse_categorical_accuracy', 0.667269), ('loss', 0.9853671)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.276886), ('loss', 1.992735)])
+OrderedDict([('sparse_categorical_accuracy', 0.526371), ('loss', 1.4157287)])
+OrderedDict([('sparse_categorical_accuracy', 0.551157), ('loss', 1.1496446)])
+OrderedDict([('sparse_categorical_accuracy', 0.604683), ('loss', 1.0242797)])
+OrderedDict([('sparse_categorical_accuracy', 0.655557), ('loss', 0.9355786)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.28864), ('loss', 1.9232954)])
+OrderedDict([('sparse_categorical_accuracy', 0.575274), ('loss', 1.4422245)])
+OrderedDict([('sparse_categorical_accuracy', 0.650664), ('loss', 1.1687008)])
+OrderedDict([('sparse_categorical_accuracy', 0.676185), ('loss', 1.0309991)])
+OrderedDict([('sparse_categorical_accuracy', 0.689176), ('loss', 0.9403163)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.268633), ('loss', 1.894891)])
+OrderedDict([('sparse_categorical_accuracy', 0.521201), ('loss', 1.3752316)])
+OrderedDict([('sparse_categorical_accuracy', 0.56024), ('loss', 1.185051)])
+OrderedDict([('sparse_categorical_accuracy', 0.64238), ('loss', 1.0878655)])
+OrderedDict([('sparse_categorical_accuracy', 0.682608), ('loss', 1.0056479)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.381741), ('loss', 1.8221776)])
+OrderedDict([('sparse_categorical_accuracy', 0.505141), ('loss', 1.3252721)])
+OrderedDict([('sparse_categorical_accuracy', 0.586448), ('loss', 1.1228322)])
+OrderedDict([('sparse_categorical_accuracy', 0.669102), ('loss', 1.0259669)])
+OrderedDict([('sparse_categorical_accuracy', 0.702515), ('loss', 0.9446353)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.343775), ('loss', 1.9903252)])
+OrderedDict([('sparse_categorical_accuracy', 0.523124), ('loss', 1.363923)])
+OrderedDict([('sparse_categorical_accuracy', 0.615664), ('loss', 1.0933384)])
+OrderedDict([('sparse_categorical_accuracy', 0.656296), ('loss', 0.9777213)])
+OrderedDict([('sparse_categorical_accuracy', 0.690439), ('loss', 0.9009303)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.298318), ('loss', 1.9065928)])
+OrderedDict([('sparse_categorical_accuracy', 0.508273), ('loss', 1.4129716)])
+OrderedDict([('sparse_categorical_accuracy', 0.579368), ('loss', 1.174942)])
+OrderedDict([('sparse_categorical_accuracy', 0.60522), ('loss', 1.0716842)])
+OrderedDict([('sparse_categorical_accuracy', 0.626523), ('loss', 1.01402)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.418484), ('loss', 1.9430176)])
+OrderedDict([('sparse_categorical_accuracy', 0.550869), ('loss', 1.3363163)])
+OrderedDict([('sparse_categorical_accuracy', 0.595392), ('loss', 1.118978)])
+OrderedDict([('sparse_categorical_accuracy', 0.619199), ('loss', 1.0253855)])
+OrderedDict([('sparse_categorical_accuracy', 0.636059), ('loss', 0.972676)])
+##############################
+16QAM at Eb/N0= 6 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.0840360000729561
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1c69dbb50>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.379297), ('loss', 1.938454)])
+OrderedDict([('sparse_categorical_accuracy', 0.508325), ('loss', 1.3536946)])
+OrderedDict([('sparse_categorical_accuracy', 0.650443), ('loss', 1.0941015)])
+OrderedDict([('sparse_categorical_accuracy', 0.668423), ('loss', 0.9522087)])
+OrderedDict([('sparse_categorical_accuracy', 0.699968), ('loss', 0.8611613)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.352835), ('loss', 2.003044)])
+OrderedDict([('sparse_categorical_accuracy', 0.596264), ('loss', 1.3720877)])
+OrderedDict([('sparse_categorical_accuracy', 0.661414), ('loss', 1.098268)])
+OrderedDict([('sparse_categorical_accuracy', 0.694559), ('loss', 0.9707431)])
+OrderedDict([('sparse_categorical_accuracy', 0.72615), ('loss', 0.8903614)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.377795), ('loss', 1.8903164)])
+OrderedDict([('sparse_categorical_accuracy', 0.558596), ('loss', 1.2627335)])
+OrderedDict([('sparse_categorical_accuracy', 0.640127), ('loss', 1.0138787)])
+OrderedDict([('sparse_categorical_accuracy', 0.703771), ('loss', 0.9118175)])
+OrderedDict([('sparse_categorical_accuracy', 0.718666), ('loss', 0.8468591)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.344304), ('loss', 1.9154066)])
+OrderedDict([('sparse_categorical_accuracy', 0.559633), ('loss', 1.3677386)])
+OrderedDict([('sparse_categorical_accuracy', 0.595449), ('loss', 1.1152415)])
+OrderedDict([('sparse_categorical_accuracy', 0.652523), ('loss', 1.0000199)])
+OrderedDict([('sparse_categorical_accuracy', 0.661002), ('loss', 0.9302492)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.470719), ('loss', 1.7885394)])
+OrderedDict([('sparse_categorical_accuracy', 0.628642), ('loss', 1.2754534)])
+OrderedDict([('sparse_categorical_accuracy', 0.641346), ('loss', 1.0382288)])
+OrderedDict([('sparse_categorical_accuracy', 0.683372), ('loss', 0.963386)])
+OrderedDict([('sparse_categorical_accuracy', 0.697741), ('loss', 0.9105853)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.398959), ('loss', 1.907978)])
+OrderedDict([('sparse_categorical_accuracy', 0.552117), ('loss', 1.3609672)])
+OrderedDict([('sparse_categorical_accuracy', 0.622912), ('loss', 1.1096466)])
+OrderedDict([('sparse_categorical_accuracy', 0.65358), ('loss', 0.9793714)])
+OrderedDict([('sparse_categorical_accuracy', 0.677194), ('loss', 0.9039908)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.261606), ('loss', 1.9673504)])
+OrderedDict([('sparse_categorical_accuracy', 0.516176), ('loss', 1.4523573)])
+OrderedDict([('sparse_categorical_accuracy', 0.662491), ('loss', 1.1611181)])
+OrderedDict([('sparse_categorical_accuracy', 0.69393), ('loss', 1.0104526)])
+OrderedDict([('sparse_categorical_accuracy', 0.717956), ('loss', 0.9302714)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.313607), ('loss', 1.9821376)])
+OrderedDict([('sparse_categorical_accuracy', 0.473694), ('loss', 1.4219421)])
+OrderedDict([('sparse_categorical_accuracy', 0.586334), ('loss', 1.1908503)])
+OrderedDict([('sparse_categorical_accuracy', 0.656056), ('loss', 1.0505579)])
+OrderedDict([('sparse_categorical_accuracy', 0.69417), ('loss', 0.9412208)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.328771), ('loss', 2.018956)])
+OrderedDict([('sparse_categorical_accuracy', 0.482585), ('loss', 1.3632112)])
+OrderedDict([('sparse_categorical_accuracy', 0.583067), ('loss', 1.118964)])
+OrderedDict([('sparse_categorical_accuracy', 0.616146), ('loss', 1.0036819)])
+OrderedDict([('sparse_categorical_accuracy', 0.629455), ('loss', 0.9335251)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.243809), ('loss', 2.163087)])
+OrderedDict([('sparse_categorical_accuracy', 0.549423), ('loss', 1.4590743)])
+OrderedDict([('sparse_categorical_accuracy', 0.641029), ('loss', 1.1663599)])
+OrderedDict([('sparse_categorical_accuracy', 0.691546), ('loss', 1.0171572)])
+OrderedDict([('sparse_categorical_accuracy', 0.712627), ('loss', 0.9246929)])
+##############################
+16QAM at Eb/N0= 7 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.0766267776489258
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d74e8050>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.30117), ('loss', 1.953091)])
+OrderedDict([('sparse_categorical_accuracy', 0.516602), ('loss', 1.3579196)])
+OrderedDict([('sparse_categorical_accuracy', 0.620194), ('loss', 1.0742073)])
+OrderedDict([('sparse_categorical_accuracy', 0.67913), ('loss', 0.9560176)])
+OrderedDict([('sparse_categorical_accuracy', 0.699445), ('loss', 0.8805452)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.439777), ('loss', 1.8135198)])
+OrderedDict([('sparse_categorical_accuracy', 0.548847), ('loss', 1.2843839)])
+OrderedDict([('sparse_categorical_accuracy', 0.620312), ('loss', 1.0653285)])
+OrderedDict([('sparse_categorical_accuracy', 0.683739), ('loss', 0.940812)])
+OrderedDict([('sparse_categorical_accuracy', 0.700148), ('loss', 0.859137)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.243583), ('loss', 2.0673509)])
+OrderedDict([('sparse_categorical_accuracy', 0.546612), ('loss', 1.4774586)])
+OrderedDict([('sparse_categorical_accuracy', 0.614157), ('loss', 1.190517)])
+OrderedDict([('sparse_categorical_accuracy', 0.664504), ('loss', 1.0254313)])
+OrderedDict([('sparse_categorical_accuracy', 0.699906), ('loss', 0.8929714)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.432819), ('loss', 1.8540359)])
+OrderedDict([('sparse_categorical_accuracy', 0.586192), ('loss', 1.2905536)])
+OrderedDict([('sparse_categorical_accuracy', 0.681225), ('loss', 1.0657104)])
+OrderedDict([('sparse_categorical_accuracy', 0.697016), ('loss', 0.9362109)])
+OrderedDict([('sparse_categorical_accuracy', 0.705808), ('loss', 0.8806539)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.285863), ('loss', 2.0854878)])
+OrderedDict([('sparse_categorical_accuracy', 0.44513), ('loss', 1.4372469)])
+OrderedDict([('sparse_categorical_accuracy', 0.53667), ('loss', 1.121757)])
+OrderedDict([('sparse_categorical_accuracy', 0.622124), ('loss', 0.9826964)])
+OrderedDict([('sparse_categorical_accuracy', 0.633686), ('loss', 0.9334039)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.382378), ('loss', 1.8114158)])
+OrderedDict([('sparse_categorical_accuracy', 0.541703), ('loss', 1.2578137)])
+OrderedDict([('sparse_categorical_accuracy', 0.664509), ('loss', 1.0284406)])
+OrderedDict([('sparse_categorical_accuracy', 0.694882), ('loss', 0.9249819)])
+OrderedDict([('sparse_categorical_accuracy', 0.719783), ('loss', 0.8538608)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.371803), ('loss', 1.8672676)])
+OrderedDict([('sparse_categorical_accuracy', 0.503671), ('loss', 1.3520852)])
+OrderedDict([('sparse_categorical_accuracy', 0.639138), ('loss', 1.1243474)])
+OrderedDict([('sparse_categorical_accuracy', 0.644295), ('loss', 1.0253923)])
+OrderedDict([('sparse_categorical_accuracy', 0.660805), ('loss', 0.9567578)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.320316), ('loss', 1.910309)])
+OrderedDict([('sparse_categorical_accuracy', 0.576191), ('loss', 1.3893638)])
+OrderedDict([('sparse_categorical_accuracy', 0.640381), ('loss', 1.148511)])
+OrderedDict([('sparse_categorical_accuracy', 0.670865), ('loss', 1.0230176)])
+OrderedDict([('sparse_categorical_accuracy', 0.689876), ('loss', 0.9559141)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.388177), ('loss', 1.9707316)])
+OrderedDict([('sparse_categorical_accuracy', 0.625263), ('loss', 1.3319049)])
+OrderedDict([('sparse_categorical_accuracy', 0.693479), ('loss', 1.0226927)])
+OrderedDict([('sparse_categorical_accuracy', 0.714757), ('loss', 0.8683616)])
+OrderedDict([('sparse_categorical_accuracy', 0.741775), ('loss', 0.7759322)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.281831), ('loss', 2.037331)])
+OrderedDict([('sparse_categorical_accuracy', 0.455742), ('loss', 1.4979101)])
+OrderedDict([('sparse_categorical_accuracy', 0.525461), ('loss', 1.2239169)])
+OrderedDict([('sparse_categorical_accuracy', 0.635923), ('loss', 1.0571429)])
+OrderedDict([('sparse_categorical_accuracy', 0.68183), ('loss', 0.9369881)])
+##############################
+16QAM at Eb/N0= 8 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.07667345106601717
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1fe803c10>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.351005), ('loss', 1.8525372)])
+OrderedDict([('sparse_categorical_accuracy', 0.576821), ('loss', 1.2914622)])
+OrderedDict([('sparse_categorical_accuracy', 0.625436), ('loss', 1.0162873)])
+OrderedDict([('sparse_categorical_accuracy', 0.657863), ('loss', 0.9036572)])
+OrderedDict([('sparse_categorical_accuracy', 0.691115), ('loss', 0.8363376)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.489736), ('loss', 1.8122122)])
+OrderedDict([('sparse_categorical_accuracy', 0.680539), ('loss', 1.2480655)])
+OrderedDict([('sparse_categorical_accuracy', 0.673406), ('loss', 1.0249037)])
+OrderedDict([('sparse_categorical_accuracy', 0.701689), ('loss', 0.8983801)])
+OrderedDict([('sparse_categorical_accuracy', 0.724877), ('loss', 0.8135998)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.257375), ('loss', 2.055523)])
+OrderedDict([('sparse_categorical_accuracy', 0.397937), ('loss', 1.4374499)])
+OrderedDict([('sparse_categorical_accuracy', 0.578502), ('loss', 1.131352)])
+OrderedDict([('sparse_categorical_accuracy', 0.639945), ('loss', 0.9755524)])
+OrderedDict([('sparse_categorical_accuracy', 0.643482), ('loss', 0.9210194)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.399511), ('loss', 1.8928778)])
+OrderedDict([('sparse_categorical_accuracy', 0.607865), ('loss', 1.3128996)])
+OrderedDict([('sparse_categorical_accuracy', 0.619712), ('loss', 1.0720837)])
+OrderedDict([('sparse_categorical_accuracy', 0.647178), ('loss', 0.9729054)])
+OrderedDict([('sparse_categorical_accuracy', 0.68461), ('loss', 0.9064038)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.350305), ('loss', 1.9717264)])
+OrderedDict([('sparse_categorical_accuracy', 0.500258), ('loss', 1.3855138)])
+OrderedDict([('sparse_categorical_accuracy', 0.644704), ('loss', 1.1013252)])
+OrderedDict([('sparse_categorical_accuracy', 0.667735), ('loss', 0.9725897)])
+OrderedDict([('sparse_categorical_accuracy', 0.674056), ('loss', 0.9104102)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.334797), ('loss', 1.8457624)])
+OrderedDict([('sparse_categorical_accuracy', 0.550957), ('loss', 1.296787)])
+OrderedDict([('sparse_categorical_accuracy', 0.653872), ('loss', 1.0557137)])
+OrderedDict([('sparse_categorical_accuracy', 0.714056), ('loss', 0.9298884)])
+OrderedDict([('sparse_categorical_accuracy', 0.748942), ('loss', 0.8441097)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.305657), ('loss', 2.011872)])
+OrderedDict([('sparse_categorical_accuracy', 0.410063), ('loss', 1.4317299)])
+OrderedDict([('sparse_categorical_accuracy', 0.544934), ('loss', 1.1950423)])
+OrderedDict([('sparse_categorical_accuracy', 0.61611), ('loss', 1.0549284)])
+OrderedDict([('sparse_categorical_accuracy', 0.667168), ('loss', 0.9448695)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.371292), ('loss', 1.9912224)])
+OrderedDict([('sparse_categorical_accuracy', 0.520087), ('loss', 1.3284861)])
+OrderedDict([('sparse_categorical_accuracy', 0.630867), ('loss', 1.0436568)])
+OrderedDict([('sparse_categorical_accuracy', 0.65558), ('loss', 0.902172)])
+OrderedDict([('sparse_categorical_accuracy', 0.686749), ('loss', 0.8338925)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.316645), ('loss', 1.9243904)])
+OrderedDict([('sparse_categorical_accuracy', 0.589616), ('loss', 1.3218935)])
+OrderedDict([('sparse_categorical_accuracy', 0.688976), ('loss', 1.0444454)])
+OrderedDict([('sparse_categorical_accuracy', 0.685191), ('loss', 0.9351636)])
+OrderedDict([('sparse_categorical_accuracy', 0.707955), ('loss', 0.8707652)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.344611), ('loss', 1.9274437)])
+OrderedDict([('sparse_categorical_accuracy', 0.508249), ('loss', 1.3089575)])
+OrderedDict([('sparse_categorical_accuracy', 0.622126), ('loss', 1.0399762)])
+OrderedDict([('sparse_categorical_accuracy', 0.631578), ('loss', 0.9248706)])
+OrderedDict([('sparse_categorical_accuracy', 0.662642), ('loss', 0.8732792)])
+##############################
+16QAM at Eb/N0= 9 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.07771009802818299
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1bf9bde90>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.300355), ('loss', 1.8298455)])
+OrderedDict([('sparse_categorical_accuracy', 0.503132), ('loss', 1.2962617)])
+OrderedDict([('sparse_categorical_accuracy', 0.614346), ('loss', 1.0828903)])
+OrderedDict([('sparse_categorical_accuracy', 0.69224), ('loss', 0.945114)])
+OrderedDict([('sparse_categorical_accuracy', 0.73339), ('loss', 0.8158596)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.306192), ('loss', 1.8660362)])
+OrderedDict([('sparse_categorical_accuracy', 0.537007), ('loss', 1.331412)])
+OrderedDict([('sparse_categorical_accuracy', 0.68354), ('loss', 1.0037562)])
+OrderedDict([('sparse_categorical_accuracy', 0.721246), ('loss', 0.8680473)])
+OrderedDict([('sparse_categorical_accuracy', 0.746848), ('loss', 0.79000217)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.31084), ('loss', 1.9513922)])
+OrderedDict([('sparse_categorical_accuracy', 0.427494), ('loss', 1.3777008)])
+OrderedDict([('sparse_categorical_accuracy', 0.695937), ('loss', 1.078674)])
+OrderedDict([('sparse_categorical_accuracy', 0.737267), ('loss', 0.8765144)])
+OrderedDict([('sparse_categorical_accuracy', 0.744445), ('loss', 0.77487)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.265047), ('loss', 1.980799)])
+OrderedDict([('sparse_categorical_accuracy', 0.489421), ('loss', 1.4508485)])
+OrderedDict([('sparse_categorical_accuracy', 0.548566), ('loss', 1.1809952)])
+OrderedDict([('sparse_categorical_accuracy', 0.63961), ('loss', 1.0240537)])
+OrderedDict([('sparse_categorical_accuracy', 0.668872), ('loss', 0.9245301)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.336801), ('loss', 2.0107615)])
+OrderedDict([('sparse_categorical_accuracy', 0.576815), ('loss', 1.3374662)])
+OrderedDict([('sparse_categorical_accuracy', 0.63851), ('loss', 1.0145713)])
+OrderedDict([('sparse_categorical_accuracy', 0.710912), ('loss', 0.8969175)])
+OrderedDict([('sparse_categorical_accuracy', 0.721191), ('loss', 0.8315815)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.350667), ('loss', 1.9619575)])
+OrderedDict([('sparse_categorical_accuracy', 0.57331), ('loss', 1.314879)])
+OrderedDict([('sparse_categorical_accuracy', 0.627355), ('loss', 1.0468765)])
+OrderedDict([('sparse_categorical_accuracy', 0.671766), ('loss', 0.9144847)])
+OrderedDict([('sparse_categorical_accuracy', 0.702382), ('loss', 0.8329757)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.317265), ('loss', 1.9857655)])
+OrderedDict([('sparse_categorical_accuracy', 0.522721), ('loss', 1.41829)])
+OrderedDict([('sparse_categorical_accuracy', 0.654442), ('loss', 1.1386982)])
+OrderedDict([('sparse_categorical_accuracy', 0.693169), ('loss', 0.9750627)])
+OrderedDict([('sparse_categorical_accuracy', 0.729736), ('loss', 0.8735008)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.299224), ('loss', 2.0389633)])
+OrderedDict([('sparse_categorical_accuracy', 0.585753), ('loss', 1.3395115)])
+OrderedDict([('sparse_categorical_accuracy', 0.636539), ('loss', 1.0323865)])
+OrderedDict([('sparse_categorical_accuracy', 0.686355), ('loss', 0.8929979)])
+OrderedDict([('sparse_categorical_accuracy', 0.7048), ('loss', 0.79304874)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.36882), ('loss', 1.8302093)])
+OrderedDict([('sparse_categorical_accuracy', 0.578786), ('loss', 1.3184462)])
+OrderedDict([('sparse_categorical_accuracy', 0.675996), ('loss', 1.0132813)])
+OrderedDict([('sparse_categorical_accuracy', 0.691011), ('loss', 0.8748811)])
+OrderedDict([('sparse_categorical_accuracy', 0.714741), ('loss', 0.8004156)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.231213), ('loss', 2.04606)])
+OrderedDict([('sparse_categorical_accuracy', 0.459206), ('loss', 1.4940292)])
+OrderedDict([('sparse_categorical_accuracy', 0.667661), ('loss', 1.178648)])
+OrderedDict([('sparse_categorical_accuracy', 0.730578), ('loss', 0.9869711)])
+OrderedDict([('sparse_categorical_accuracy', 0.74501), ('loss', 0.8514754)])
+##############################
+16QAM at Eb/N0= 10 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.0697146251797676
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1d3aeb090>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.18151), ('loss', 2.0165637)])
+OrderedDict([('sparse_categorical_accuracy', 0.518769), ('loss', 1.435521)])
+OrderedDict([('sparse_categorical_accuracy', 0.624301), ('loss', 1.1348088)])
+OrderedDict([('sparse_categorical_accuracy', 0.673138), ('loss', 0.9764876)])
+OrderedDict([('sparse_categorical_accuracy', 0.730808), ('loss', 0.8820648)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.209755), ('loss', 2.0815065)])
+OrderedDict([('sparse_categorical_accuracy', 0.534643), ('loss', 1.4101729)])
+OrderedDict([('sparse_categorical_accuracy', 0.633083), ('loss', 1.0692105)])
+OrderedDict([('sparse_categorical_accuracy', 0.66911), ('loss', 0.9198659)])
+OrderedDict([('sparse_categorical_accuracy', 0.718068), ('loss', 0.8423821)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.299029), ('loss', 2.0000176)])
+OrderedDict([('sparse_categorical_accuracy', 0.520764), ('loss', 1.3472323)])
+OrderedDict([('sparse_categorical_accuracy', 0.568689), ('loss', 1.0663368)])
+OrderedDict([('sparse_categorical_accuracy', 0.639686), ('loss', 0.9661031)])
+OrderedDict([('sparse_categorical_accuracy', 0.714106), ('loss', 0.8960601)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.248513), ('loss', 2.0270894)])
+OrderedDict([('sparse_categorical_accuracy', 0.462986), ('loss', 1.5783101)])
+OrderedDict([('sparse_categorical_accuracy', 0.598858), ('loss', 1.217624)])
+OrderedDict([('sparse_categorical_accuracy', 0.734801), ('loss', 1.0052145)])
+OrderedDict([('sparse_categorical_accuracy', 0.742957), ('loss', 0.8935198)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.250271), ('loss', 2.1117015)])
+OrderedDict([('sparse_categorical_accuracy', 0.499661), ('loss', 1.5158483)])
+OrderedDict([('sparse_categorical_accuracy', 0.55448), ('loss', 1.2778612)])
+OrderedDict([('sparse_categorical_accuracy', 0.62305), ('loss', 1.1441152)])
+OrderedDict([('sparse_categorical_accuracy', 0.657069), ('loss', 1.033413)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.446251), ('loss', 1.8902806)])
+OrderedDict([('sparse_categorical_accuracy', 0.635186), ('loss', 1.2867647)])
+OrderedDict([('sparse_categorical_accuracy', 0.720397), ('loss', 1.0172904)])
+OrderedDict([('sparse_categorical_accuracy', 0.771601), ('loss', 0.8481975)])
+OrderedDict([('sparse_categorical_accuracy', 0.786301), ('loss', 0.7366648)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.341798), ('loss', 1.8861544)])
+OrderedDict([('sparse_categorical_accuracy', 0.509644), ('loss', 1.4231558)])
+OrderedDict([('sparse_categorical_accuracy', 0.615078), ('loss', 1.2091286)])
+OrderedDict([('sparse_categorical_accuracy', 0.713983), ('loss', 1.0539519)])
+OrderedDict([('sparse_categorical_accuracy', 0.734861), ('loss', 0.9512523)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.453116), ('loss', 1.8562956)])
+OrderedDict([('sparse_categorical_accuracy', 0.542959), ('loss', 1.2798533)])
+OrderedDict([('sparse_categorical_accuracy', 0.625855), ('loss', 1.0132453)])
+OrderedDict([('sparse_categorical_accuracy', 0.666905), ('loss', 0.8841641)])
+OrderedDict([('sparse_categorical_accuracy', 0.699833), ('loss', 0.80960566)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.359897), ('loss', 1.857475)])
+OrderedDict([('sparse_categorical_accuracy', 0.576384), ('loss', 1.2593943)])
+OrderedDict([('sparse_categorical_accuracy', 0.667995), ('loss', 0.9609286)])
+OrderedDict([('sparse_categorical_accuracy', 0.689419), ('loss', 0.8461939)])
+OrderedDict([('sparse_categorical_accuracy', 0.709601), ('loss', 0.7842838)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.457894), ('loss', 1.7629952)])
+OrderedDict([('sparse_categorical_accuracy', 0.596909), ('loss', 1.207528)])
+OrderedDict([('sparse_categorical_accuracy', 0.697799), ('loss', 0.9357273)])
+OrderedDict([('sparse_categorical_accuracy', 0.720006), ('loss', 0.8272017)])
+OrderedDict([('sparse_categorical_accuracy', 0.727149), ('loss', 0.7732392)])
+##############################
+16QAM at Eb/N0= 11 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.06948117315769196
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1ec052d90>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.373263), ('loss', 1.7915376)])
+OrderedDict([('sparse_categorical_accuracy', 0.573746), ('loss', 1.2910258)])
+OrderedDict([('sparse_categorical_accuracy', 0.635415), ('loss', 1.050532)])
+OrderedDict([('sparse_categorical_accuracy', 0.687278), ('loss', 0.8958696)])
+OrderedDict([('sparse_categorical_accuracy', 0.708179), ('loss', 0.79882044)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.435949), ('loss', 1.8896096)])
+OrderedDict([('sparse_categorical_accuracy', 0.62819), ('loss', 1.2975965)])
+OrderedDict([('sparse_categorical_accuracy', 0.69257), ('loss', 1.0048829)])
+OrderedDict([('sparse_categorical_accuracy', 0.715243), ('loss', 0.8635458)])
+OrderedDict([('sparse_categorical_accuracy', 0.739228), ('loss', 0.7736266)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.31271), ('loss', 2.1624475)])
+OrderedDict([('sparse_categorical_accuracy', 0.631944), ('loss', 1.375508)])
+OrderedDict([('sparse_categorical_accuracy', 0.634717), ('loss', 1.0062091)])
+OrderedDict([('sparse_categorical_accuracy', 0.666332), ('loss', 0.8344998)])
+OrderedDict([('sparse_categorical_accuracy', 0.691697), ('loss', 0.76071775)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.332745), ('loss', 1.9018269)])
+OrderedDict([('sparse_categorical_accuracy', 0.605129), ('loss', 1.3536085)])
+OrderedDict([('sparse_categorical_accuracy', 0.603066), ('loss', 1.0905274)])
+OrderedDict([('sparse_categorical_accuracy', 0.626418), ('loss', 0.9582754)])
+OrderedDict([('sparse_categorical_accuracy', 0.638217), ('loss', 0.8806016)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.255608), ('loss', 2.0786793)])
+OrderedDict([('sparse_categorical_accuracy', 0.584267), ('loss', 1.4295129)])
+OrderedDict([('sparse_categorical_accuracy', 0.65289), ('loss', 1.0517184)])
+OrderedDict([('sparse_categorical_accuracy', 0.715245), ('loss', 0.8696912)])
+OrderedDict([('sparse_categorical_accuracy', 0.747014), ('loss', 0.75490785)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.208059), ('loss', 2.167571)])
+OrderedDict([('sparse_categorical_accuracy', 0.481195), ('loss', 1.448776)])
+OrderedDict([('sparse_categorical_accuracy', 0.621314), ('loss', 1.0220664)])
+OrderedDict([('sparse_categorical_accuracy', 0.694779), ('loss', 0.8606721)])
+OrderedDict([('sparse_categorical_accuracy', 0.711134), ('loss', 0.7750757)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.359593), ('loss', 1.9587914)])
+OrderedDict([('sparse_categorical_accuracy', 0.52974), ('loss', 1.2905535)])
+OrderedDict([('sparse_categorical_accuracy', 0.713368), ('loss', 1.0105602)])
+OrderedDict([('sparse_categorical_accuracy', 0.726886), ('loss', 0.8538165)])
+OrderedDict([('sparse_categorical_accuracy', 0.747819), ('loss', 0.746577)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.324035), ('loss', 1.9602354)])
+OrderedDict([('sparse_categorical_accuracy', 0.575988), ('loss', 1.3708798)])
+OrderedDict([('sparse_categorical_accuracy', 0.696977), ('loss', 1.0516348)])
+OrderedDict([('sparse_categorical_accuracy', 0.730087), ('loss', 0.8765552)])
+OrderedDict([('sparse_categorical_accuracy', 0.750815), ('loss', 0.7960366)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.353624), ('loss', 1.9000494)])
+OrderedDict([('sparse_categorical_accuracy', 0.624684), ('loss', 1.2931199)])
+OrderedDict([('sparse_categorical_accuracy', 0.65945), ('loss', 0.9572416)])
+OrderedDict([('sparse_categorical_accuracy', 0.71046), ('loss', 0.8134483)])
+OrderedDict([('sparse_categorical_accuracy', 0.735836), ('loss', 0.73767495)])
+##############################
+Monte Carlo Trial #  10
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.265456), ('loss', 2.0550952)])
+OrderedDict([('sparse_categorical_accuracy', 0.436049), ('loss', 1.422061)])
+OrderedDict([('sparse_categorical_accuracy', 0.690206), ('loss', 1.0978835)])
+OrderedDict([('sparse_categorical_accuracy', 0.73601), ('loss', 0.8794199)])
+OrderedDict([('sparse_categorical_accuracy', 0.7505), ('loss', 0.7740579)])
+##############################
+16QAM at Eb/N0= 12 dB
+FedRec trained collaboratively by  5 users
+non-iid  Rayleigh fading
+BER=  0.069489024579525
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Please add `keras.layers.InputLayer` instead of `keras.Input` to Sequential model. `keras.Input` is intended to be used by Functional model.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+WARNING:tensorflow:Layer lstm will not use cuDNN kernels since it doesn't meet the criteria. It will use a generic GPU kernel as fallback when running on GPU.
+<tensorflow_federated.python.core.impl.computation.computation_impl.ComputationImpl object at 0x7fd1fe49e050>
+##############################
+Monte Carlo Trial #  1
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.360831), ('loss', 1.8457652)])
+OrderedDict([('sparse_categorical_accuracy', 0.488239), ('loss', 1.3215503)])
+OrderedDict([('sparse_categorical_accuracy', 0.669484), ('loss', 1.0433159)])
+OrderedDict([('sparse_categorical_accuracy', 0.697631), ('loss', 0.8530208)])
+OrderedDict([('sparse_categorical_accuracy', 0.763844), ('loss', 0.75619155)])
+##############################
+Monte Carlo Trial #  2
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.508041), ('loss', 1.9159908)])
+OrderedDict([('sparse_categorical_accuracy', 0.639173), ('loss', 1.2184294)])
+OrderedDict([('sparse_categorical_accuracy', 0.660054), ('loss', 0.9107677)])
+OrderedDict([('sparse_categorical_accuracy', 0.700402), ('loss', 0.7953737)])
+OrderedDict([('sparse_categorical_accuracy', 0.726651), ('loss', 0.7253491)])
+##############################
+Monte Carlo Trial #  3
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.294703), ('loss', 2.087283)])
+OrderedDict([('sparse_categorical_accuracy', 0.518811), ('loss', 1.3988185)])
+OrderedDict([('sparse_categorical_accuracy', 0.636142), ('loss', 1.013083)])
+OrderedDict([('sparse_categorical_accuracy', 0.700878), ('loss', 0.82025254)])
+OrderedDict([('sparse_categorical_accuracy', 0.696442), ('loss', 0.7482414)])
+##############################
+Monte Carlo Trial #  4
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.318544), ('loss', 1.9833388)])
+OrderedDict([('sparse_categorical_accuracy', 0.483002), ('loss', 1.3441035)])
+OrderedDict([('sparse_categorical_accuracy', 0.641269), ('loss', 1.0460746)])
+OrderedDict([('sparse_categorical_accuracy', 0.703392), ('loss', 0.8834067)])
+OrderedDict([('sparse_categorical_accuracy', 0.724369), ('loss', 0.7920054)])
+##############################
+Monte Carlo Trial #  5
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.402862), ('loss', 1.811536)])
+OrderedDict([('sparse_categorical_accuracy', 0.594163), ('loss', 1.2378948)])
+OrderedDict([('sparse_categorical_accuracy', 0.678731), ('loss', 0.9387769)])
+OrderedDict([('sparse_categorical_accuracy', 0.716322), ('loss', 0.78725356)])
+OrderedDict([('sparse_categorical_accuracy', 0.74552), ('loss', 0.7113987)])
+##############################
+Monte Carlo Trial #  6
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.332378), ('loss', 1.896479)])
+OrderedDict([('sparse_categorical_accuracy', 0.48294), ('loss', 1.3697286)])
+OrderedDict([('sparse_categorical_accuracy', 0.642579), ('loss', 1.0548742)])
+OrderedDict([('sparse_categorical_accuracy', 0.704243), ('loss', 0.8653004)])
+OrderedDict([('sparse_categorical_accuracy', 0.7758), ('loss', 0.7482383)])
+##############################
+Monte Carlo Trial #  7
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.310436), ('loss', 2.0926597)])
+OrderedDict([('sparse_categorical_accuracy', 0.436202), ('loss', 1.4128968)])
+OrderedDict([('sparse_categorical_accuracy', 0.654047), ('loss', 1.0616227)])
+OrderedDict([('sparse_categorical_accuracy', 0.666931), ('loss', 0.8973821)])
+OrderedDict([('sparse_categorical_accuracy', 0.684126), ('loss', 0.82440555)])
+##############################
+Monte Carlo Trial #  8
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.34134), ('loss', 1.878242)])
+OrderedDict([('sparse_categorical_accuracy', 0.631368), ('loss', 1.2818193)])
+OrderedDict([('sparse_categorical_accuracy', 0.692928), ('loss', 1.000791)])
+OrderedDict([('sparse_categorical_accuracy', 0.754752), ('loss', 0.8508036)])
+OrderedDict([('sparse_categorical_accuracy', 0.774742), ('loss', 0.74867666)])
+##############################
+Monte Carlo Trial #  9
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+<TensorSliceDataset shapes: ((2,), ()), types: (tf.float64, tf.int32)>
+[<PrefetchDataset shapes: OrderedDict([(x, (None, 1, 2)), (y, (None, 1))]), types: OrderedDict([(x, tf.float64), (y, tf.int32)])>]
+OrderedDict([('sparse_categorical_accuracy', 0.432437), ('loss', 1.9860972)])
